@@ -9,7 +9,7 @@ function Homepage() {
         <div className = 'home' >    
         
              
-            <h1>Mr Aina</h1>
+            <h1 className = 'title'>Mr Aina's Fun Maths App</h1>
             <Wrapper/>
             
             
